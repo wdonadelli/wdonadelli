@@ -1,16 +1,16 @@
-## Hi
+# Hi
 
-### 2021-01-02
+## 2021-01-02
 
 The v3 version and the **WD Web Libraries** manual have been updated.
 
-A versão v3 e o manual da **WD Web Libraries** foram atualizadas.
+_A versão v3 e o manual da **WD Web Libraries** foram atualizadas._
 
-#### wdonadelli.com.br
+## http://wdonadelli.com.br
 
 Visit [my web page](http://wdonadelli.com.br) when you can and if you want (in Portuguese).
 
-Visitem [minha web page](http://wdonadelli.com.br), quando puder e se quiser.
+_Visitem [minha web page](http://wdonadelli.com.br), quando puder e se quiser._
 
 <!--
 **wdonadelli/wdonadelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

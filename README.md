@@ -1,9 +1,16 @@
-### Hi there 👋
+## Hi
 
-The v3 version of **WD Web Libraries** is under construction, new tools and a new manual.
+### 2021-01-02
 
-A versão v3 da **WD Web Libraries** está em construção, novas ferramentas e um novo manual.
+The v3 version and the **WD Web Libraries** manual have been updated.
 
+A versão v3 e o manual da **WD Web Libraries** foram atualizadas.
+
+#### wdonadelli.com.br
+
+Visit [my web page](http://wdonadelli.com.br) when you can and if you want (in Portuguese).
+
+Visitem [minha web page](http://wdonadelli.com.br), quando puder e se quiser.
 
 <!--
 **wdonadelli/wdonadelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

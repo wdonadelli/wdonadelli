@@ -1,16 +1,15 @@
-# Hi
+## 2021-04-17
 
-## 2021-01-02
+Disponibilizei mais uma pequena biblioteca para a linguagem c com foco no tratamento de texto (strings).
 
-The v3 version and the **WD Web Libraries** manual have been updated.
+Vejam, se quiserem, os detalhes da ferramenta em [](https://github.com/wdonadelli/libctext/wiki).
 
-_A versão v3 e o manual da **WD Web Libraries** foram atualizadas._
 
-## http://wdonadelli.com.br
+I made available another small library for language c with a focus on text treatment (strings).
 
-Visit [my web page](http://wdonadelli.com.br) when you can and if you want (in Portuguese).
+See, if you like, the details of the tool at [](https://github.com/wdonadelli/libctext/wiki).
 
-_Visitem [minha web page](http://wdonadelli.com.br), quando puder e se quiser._
+Willian
 
 <!--
 **wdonadelli/wdonadelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

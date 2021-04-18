@@ -2,11 +2,11 @@
 
 Disponibilizei mais uma pequena biblioteca para a linguagem c com foco no tratamento de texto (strings).
 
-Vejam, se quiserem, os detalhes da ferramenta em [https://github.com/wdonadelli/libctext/wiki]().
+Vejam, se quiserem, os detalhes da ferramenta em [https://github.com/wdonadelli/libctext/wiki](https://github.com/wdonadelli/libctext/wiki).
 
 _I made available another small library for language c with a focus on text treatment (strings)._
 
-_See, if you like, the details of the tool at [https://github.com/wdonadelli/libctext/wiki]()._
+_See, if you like, the details of the tool at [https://github.com/wdonadelli/libctext/wiki](https://github.com/wdonadelli/libctext/wiki)._
 
 __Willian__
 

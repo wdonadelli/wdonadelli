@@ -2,14 +2,13 @@
 
 Disponibilizei mais uma pequena biblioteca para a linguagem c com foco no tratamento de texto (strings).
 
-Vejam, se quiserem, os detalhes da ferramenta em [](https://github.com/wdonadelli/libctext/wiki).
+Vejam, se quiserem, os detalhes da ferramenta em [https://github.com/wdonadelli/libctext/wiki]().
 
+_I made available another small library for language c with a focus on text treatment (strings)._
 
-I made available another small library for language c with a focus on text treatment (strings).
+_See, if you like, the details of the tool at [https://github.com/wdonadelli/libctext/wiki]()._
 
-See, if you like, the details of the tool at [](https://github.com/wdonadelli/libctext/wiki).
-
-Willian
+__Willian__
 
 <!--
 **wdonadelli/wdonadelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

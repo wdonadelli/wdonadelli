@@ -1,4 +1,4 @@
-## 2022-08-01
+**2022-08-01**
 
 Version 4 of the wd libraries (JS and CSS) has been made available, see the [wiki](https://github.com/wdonadelli/wd/wiki).
 

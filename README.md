@@ -1,14 +1,9 @@
-## 2021-04-17
+## 2022-08-01
 
-Disponibilizei mais uma pequena biblioteca para a linguagem c com foco no tratamento de texto (strings).
+Version 4 of the wd libraries (JS and CSS) has been made available, see the [wiki](https://github.com/wdonadelli/wd/wiki).
 
-Vejam, se quiserem, os detalhes da ferramenta em [https://github.com/wdonadelli/libctext/wiki](https://github.com/wdonadelli/libctext/wiki).
 
-_I made available another small library for language c with a focus on text treatment (strings)._
 
-_See, if you like, the details of the tool at [https://github.com/wdonadelli/libctext/wiki](https://github.com/wdonadelli/libctext/wiki)._
-
-__Willian__
 
 <!--
 **wdonadelli/wdonadelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

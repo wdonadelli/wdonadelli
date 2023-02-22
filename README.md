@@ -1,3 +1,8 @@
+**2023-02-22**
+
+Update of [wd libraries](https://github.com/wdonadelli/wd) (JS and CSS, v4.4.4). See the [wiki](https://github.com/wdonadelli/wd/wiki).
+
+
 **2023-01-03**
 
 Update of [wd libraries](https://github.com/wdonadelli/wd) (JS and CSS, v4.2.2). See the [wiki](https://github.com/wdonadelli/wd/wiki).
